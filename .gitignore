@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.venv/
+
+# Database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.cache/
+
+# Dependencies
+requirements.txt
